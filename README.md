@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm tomsin9
 
-<!--
-**tomsin9/tomsin9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack Web Developer | Based in Hong Kong 🇭🇰**
 
-Here are some ideas to get you started:
+I specialize in building clean, functional websites and web applications from scratch. I’m passionate about writing maintainable code and delivering great user experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+- **Frontend:** Vue.js, TypeScript, Tailwind CSS
+- **Backend:** Django, FastAPI, PostgreSQL
+
+---
+
+### 🚀 My Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=tomsin9&show_icons=true&theme=nord&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomsin9&layout=compact&theme=nord&hide_border=true" height="150" />
+</p>
