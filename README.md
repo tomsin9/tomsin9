@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Tom Sin
+## 👋 Hi, I'm Tom Sin
 
 **Full-Stack Web Developer | Based in Hong Kong 🇭🇰**
 
